@@ -1,0 +1,112 @@
+[
+    {
+        "outputFile": "/Users/chrispauley/StudioProjects/SpellingBee/app/build/intermediates/res/merged/debug/values-v11/values-v11.xml",
+        "map": [
+            {
+                "to": {
+                    "startLine": 2,
+                    "startColumn": 4,
+                    "startOffset": 55,
+                    "endLine": 4,
+                    "endColumn": 12,
+                    "endOffset": 187
+                },
+                "from": {
+                    "file": "/Users/chrispauley/StudioProjects/SpellingBee/app/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 8,
+                        "startColumn": 4,
+                        "startOffset": 222,
+                        "endLine": 10,
+                        "endColumn": 12,
+                        "endOffset": 356
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 5,
+                    "startColumn": 4,
+                    "startOffset": 192,
+                    "endLine": 7,
+                    "endColumn": 12,
+                    "endOffset": 351
+                },
+                "from": {
+                    "file": "/Users/chrispauley/StudioProjects/SpellingBee/app/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 20,
+                        "startColumn": 4,
+                        "startOffset": 811,
+                        "endLine": 22,
+                        "endColumn": 12,
+                        "endOffset": 972
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 8,
+                    "startColumn": 4,
+                    "startOffset": 356,
+                    "endLine": 14,
+                    "endColumn": 12,
+                    "endOffset": 789
+                },
+                "from": {
+                    "file": "/Users/chrispauley/StudioProjects/SpellingBee/app/src/main/res/values-v11/styles.xml",
+                    "position": {
+                        "startLine": 12,
+                        "startColumn": 4,
+                        "startOffset": 364,
+                        "endLine": 18,
+                        "endColumn": 12,
+                        "endOffset": 803
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 15,
+                    "startColumn": 4,
+                    "startOffset": 794,
+                    "endLine": 18,
+                    "endColumn": 12,
+                    "endOffset": 979
+                },
+                "from": {
+                    "file": "/Users/chrispauley/StudioProjects/SpellingBee/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values-v11/values.xml",
+                    "position": {
+                        "startLine": 4,
+                        "startColumn": 4,
+                        "startOffset": 177,
+                        "endLine": 7,
+                        "endColumn": 12,
+                        "endOffset": 362
+                    }
+                }
+            },
+            {
+                "to": {
+                    "startLine": 19,
+                    "startColumn": 4,
+                    "startOffset": 984,
+                    "endLine": 22,
+                    "endColumn": 12,
+                    "endOffset": 1181
+                },
+                "from": {
+                    "file": "/Users/chrispauley/StudioProjects/SpellingBee/app/build/intermediates/exploded-aar/com.actionbarsherlock/actionbarsherlock/4.4.0/res/values-v11/values.xml",
+                    "position": {
+                        "startLine": 9,
+                        "startColumn": 4,
+                        "startOffset": 368,
+                        "endLine": 12,
+                        "endColumn": 12,
+                        "endOffset": 565
+                    }
+                }
+            }
+        ]
+    }
+]

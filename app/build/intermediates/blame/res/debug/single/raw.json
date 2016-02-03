@@ -1,0 +1,14 @@
+[
+    {
+        "merged": "/Users/chrispauley/StudioProjects/SpellingBee/app/build/intermediates/res/merged/debug/raw/switch16.wav",
+        "source": "/Users/chrispauley/StudioProjects/SpellingBee/app/src/main/res/raw/switch16.wav"
+    },
+    {
+        "merged": "/Users/chrispauley/StudioProjects/SpellingBee/app/build/intermediates/res/merged/debug/raw/ding.mp3",
+        "source": "/Users/chrispauley/StudioProjects/SpellingBee/app/src/main/res/raw/ding.mp3"
+    },
+    {
+        "merged": "/Users/chrispauley/StudioProjects/SpellingBee/app/build/intermediates/res/merged/debug/raw/buzzer.mp3",
+        "source": "/Users/chrispauley/StudioProjects/SpellingBee/app/src/main/res/raw/buzzer.mp3"
+    }
+]

@@ -1,0 +1,52 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Spelling Bee</string>
+    <string name="action_settings">Settings</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="playSound">Play Sound</string>
+    <string name="spellHere">Spell Here</string>
+    <string name="addWord">Add Word</string>
+    <string name="typeWord">Type Word Here</string>
+    <string name="spellWords">Spell Words</string>
+
+    <color name="yellow">#FFFF00</color>
+    <color name="black">#000000</color>
+
+    <string name="title_activity_list">ListActivity</string>
+    <string name="title_activity_home">Home</string>
+    <string name="title">Spelling Bee</string>
+    <string name="makeList">Start</string>
+    <string name="delete">Delete</string>
+    <string name="title_activity_file">Lists</string>
+    <string name="newList">Make List</string>
+    <string name="listNameHere">List Name Here</string>
+    <string name="settingsString">Settings</string>
+    <string name="ask_tts">ask_text_to_speech</string>
+    <string name="aTTS">Word Entry Error</string>
+    <string name="pref_summary_tts">Ask before accepting a \n misspelled word in List Edit</string>
+    <string name="definition_string">Definition</string>
+    <string name="title_activity_fullscreen">Spell</string>
+    <string name="dummy_button">Dummy Button</string>
+    <string name="dummy_content">DUMMY\nCONTENT</string>
+    <string name="InstIntro">\t Thank you for downloading Spelling Bee! Please read the following instructions to learn how to get the most out of this application. \n</string>
+    
+        <string-array name="quickListPref">
+        <item name="5">5 words</item>
+        <item name="10">10 words</item>
+        <item name="20">20 words</item>
+        <item name="25">25 words</item>
+        <item name="50">50 words</item>
+    </string-array>
+    
+    <string-array name="quickListPrefValues">
+        <item name="5">5</item>
+        <item name="10">10</item>
+        <item name="20">20</item>
+        <item name="25">25</item>
+        <item name="50">50</item>
+    </string-array>
+        <string name="creditsButton">Credits</string>
+        <string name="credits">Developed by Christopher Pauley. \nBee drawn by Erin Pauley. \nPronounciations powered by Forvo(www.forvo.com).</string>
+
+</resources>

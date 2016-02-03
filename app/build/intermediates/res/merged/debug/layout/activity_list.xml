@@ -1,0 +1,75 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:background="@color/yellow"
+    android:orientation="vertical" >
+    
+    <LinearLayout
+        android:id="@+id/field"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" 
+        android:descendantFocusability="beforeDescendants"
+android:focusableInTouchMode="true" 
+android:focusable="true">
+
+        <Button
+            android:id="@+id/addWordButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/black_button"
+            android:text="@string/addWord" />
+
+        <EditText
+            android:id="@+id/newWordEditText"
+            android:layout_width="match_parent"
+            android:layout_height="match_parent"
+            android:layout_weight="1"
+            android:ems="10"
+            android:inputType="none"
+            android:capitalize="none"
+            android:hint="@string/typeWord" >
+
+        </EditText>
+
+        <Button
+            android:id="@+id/shuffleButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/black_button"
+            android:text="Shuffle" />
+
+    </LinearLayout>
+
+    <ListView
+        android:id="@+id/wordListView"
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:layout_weight="1"
+        android:fitsSystemWindows="false"
+        android:paddingLeft="@dimen/listLeft"
+        android:paddingRight="@dimen/listLeft" >
+
+    </ListView>
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content" >
+
+        <Button
+            android:id="@+id/spellWordsButton"
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:background="@drawable/black_button"
+            android:layout_weight="0.50"
+            android:text="@string/spellWords" />
+
+        <Button
+            android:layout_width="wrap_content"
+            android:layout_height="wrap_content"
+            android:text="Finish List"
+            android:layout_weight="0.50"
+            android:background="@drawable/black_button"
+            android:id="@+id/saveWordsButton" />
+    </LinearLayout>
+
+</LinearLayout>

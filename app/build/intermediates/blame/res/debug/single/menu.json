@@ -1,0 +1,18 @@
+[
+    {
+        "merged": "/Users/chrispauley/StudioProjects/SpellingBee/app/build/intermediates/res/merged/debug/menu/list.xml",
+        "source": "/Users/chrispauley/StudioProjects/SpellingBee/app/src/main/res/menu/list.xml"
+    },
+    {
+        "merged": "/Users/chrispauley/StudioProjects/SpellingBee/app/build/intermediates/res/merged/debug/menu/file.xml",
+        "source": "/Users/chrispauley/StudioProjects/SpellingBee/app/src/main/res/menu/file.xml"
+    },
+    {
+        "merged": "/Users/chrispauley/StudioProjects/SpellingBee/app/build/intermediates/res/merged/debug/menu/main.xml",
+        "source": "/Users/chrispauley/StudioProjects/SpellingBee/app/src/main/res/menu/main.xml"
+    },
+    {
+        "merged": "/Users/chrispauley/StudioProjects/SpellingBee/app/build/intermediates/res/merged/debug/menu/home.xml",
+        "source": "/Users/chrispauley/StudioProjects/SpellingBee/app/src/main/res/menu/home.xml"
+    }
+]
